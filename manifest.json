@@ -1,10 +1,10 @@
 {
-  "name": "Calculator2",
+  "name": "Calc2",
   "short_name": "Calc2",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#fff",
+  "theme_color": "#000",
   "icons": [
     {
       "src": "icons/icon-192.png",
